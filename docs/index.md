@@ -1,11 +1,5 @@
-# Obsidian Notes
+# Mitre Attack Framework
 
-Publish your public notes with MkDocs
+MITRE ATT&CK® is a globally-accessible knowledge base of adversary tactics and techniques based on real-world observations. The ATT&CK knowledge base is used as a foundation for the development of specific threat models and methodologies in the private sector, in government, and in the cybersecurity product and service community.
 
-## Hello World!
-
-The `index.md` in the `/docs` folder is the homepage you see here.
-
-The folders in `/docs` appear as the main sections on the navigation bar.
-
-The notes appear as pages within these sections. For example, [[Note 1]] in `Topic 1`
+This is a dynamically generated markdown version of ATT&CK for use with Obsidian and other personal projects.
